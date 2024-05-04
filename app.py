@@ -9,7 +9,7 @@ app=Flask(__name__)
 
 @app.route('/',methods=["GET"])
 def home():
-    return "Hello World from ROZINA RAZZAK"
+    return "Hello World from ROZINa RAZZAK"
 
 
 if __name__ =="__main__":
